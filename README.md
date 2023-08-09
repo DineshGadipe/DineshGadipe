@@ -1,4 +1,3 @@
-[!MasterHead](https://www.abujadataschool.com/wp-content/uploads/2021/07/Data-Science-Abuja-What-is-data-science.png)](https://dineshgadipe.io)
 <h1 align="center">Hi 👋, I'm DineshGadipe</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="Coding" width= "400" src="https://img.freepik.com/free-vector/data-report-concept-illustration_114360-1131.jpg?w=2000
